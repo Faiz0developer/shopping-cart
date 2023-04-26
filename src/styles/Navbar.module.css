@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  /* display: flex;
+  justify-content: space-around; */
+  width: 100%;
+  height: 60px;
+  /* background-image: linear-gradient(to left,#BFBFBB, #2B2B28,#4A4A49); */
+  /* justify-content: center; */
+}
+.nav_box{
+  width: 20%;
+  display: flex;
+  align-items: center;
+
+}
+.my_shop{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+  font-family:'Times New Roman', Times, serif;
+  cursor: pointer;
+}
+.users{
+  display: flex;
+  height: 40px;
+  margin-top: 10px;
+  margin-right: 100px;
+  justify-content: space-between;
+  width: 30%;
+}
+.carts{
+  cursor: pointer;
+  align-self: center;
+  justify-self: flex-end;
+  font-size: 1.5rem;
+  display: flex;
+}
+.size{
+  font-size: 15px;
+}

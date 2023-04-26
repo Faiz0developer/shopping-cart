@@ -1,0 +1,10 @@
+.btn{
+  height: 50px;
+   background-color: rgb(3, 3, 74);
+   color: white;
+   margin-top: 14px;
+}
+.btn1{
+  width: 50px;
+  text-align: center;
+}

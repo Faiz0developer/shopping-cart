@@ -1,0 +1,12 @@
+.button{
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #fb641b;
+}
+.button:active
+{
+  transform: scale(0.9);
+}
